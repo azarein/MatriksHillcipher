@@ -1,0 +1,6 @@
+Tugas sesi 15 Algodata melakukan proses enkripsi file serta melakukan pembalikan/deksripsi file
+
+Nama lengkap : M. Yamin (20200040077)
+Kelas        : Teknik Informatika 20E
+Kampus       : Universitas Nusa Putra
+
